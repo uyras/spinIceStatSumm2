@@ -25,4 +25,6 @@ PRE_TARGETDEPS += $$PWD/../partsEngine/libPartsEngine.a
 DISTFILES += \
     README.md \
     magnetisation.nb \
-    kappa.nb
+    kappa.nb \
+    data/statsumm_12_2200.dat \
+    res/magnetisation_12_2200.png
